@@ -1,0 +1,9 @@
+[project]
+name = "python_learn"
+version = "0.1.0"
+description = "学习python的一些代码"
+requires-python = ">=3.10"
+dependencies = [
+    "pyinstaller>=6.16.0",
+]
+
